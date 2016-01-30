@@ -40,6 +40,13 @@
 <!--Nota: check the 'Replace to' and 'Replace from' translation (in which file?) -->
 <!ENTITY addReset.label                   "Ajouter les entrées 'Modifier sur' et 'Modifier depuis' le serveur dans le menu contextuel des carnets d'adresses">
 <!ENTITY addReset.accesskey               "A">
+<!ENTITY statusBarClass.label                   "Barre d'état">
+<!ENTITY statusBarClass.icon.label                   "icône">
+<!ENTITY statusBarClass.icon.accesskey                   "i">
+<!ENTITY statusBarClass.text.label                   "texte">
+<!ENTITY statusBarClass.text.accesskey                   "t">
+<!ENTITY statusBarClass.both.label                   "les deux">
+<!ENTITY statusBarClass.both.accesskey                   "d">
 <!ENTITY abResults.label                  "Liste de contacts">
 <!--[en] ENTITY phoneColLabels.label             "Rename the phone column labels"-->
 <!--Nota: check this translation -->
